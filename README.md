@@ -4,6 +4,11 @@
 
 Robotic Hand capable of mimicking real hand motions. 
 
+### Demonstration
+
+
+https://user-images.githubusercontent.com/57484266/137698339-ad98d959-e699-446e-b88d-0283bb318859.mp4
+
 ### Components
 
 * Flex Sensors- 3 Nos
@@ -32,9 +37,6 @@ fingers to move.
 My detailed report for this project can be found here- https://drive.google.com/drive/folders/1cY0uLH3rlOgQ8h03AEoNsLqLt2LnJccG?usp=sharing
 
 
-### Demonstration
 
-
-https://user-images.githubusercontent.com/57484266/137698339-ad98d959-e699-446e-b88d-0283bb318859.mp4
 
 
